@@ -1,0 +1,25 @@
+.loginDiv {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.loginDiv form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  background-color: rgb(204, 204, 204);
+  padding: 60px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+input {
+  border-radius: 2px;
+}
+
+button {
+  font-size: 20px;
+  border-radius: 2px;
+}
